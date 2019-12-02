@@ -1,0 +1,16 @@
+{
+  "name": "test-proj",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "hello": "echo 'Broo'",
+    "start": "parcel src/index.html"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}
